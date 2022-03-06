@@ -1,0 +1,26 @@
+h1 {
+    font-family:Shizuru, cursive;
+    color:white;
+}
+
+p {
+    font-family:Shizuru, cursive;
+    color:white;
+}
+div {
+    display:grid;
+    width:100%;
+    grid-template-columns: repeat(5,auto);
+}
+.frame {
+    margin:50px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+}
+.circle {
+    width: 114px;
+    height: 114px;
+}
+
